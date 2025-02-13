@@ -2,4 +2,4 @@
 
 Este é um projeto de teste
 
-Testando 123
+Este é um projeto para ensinar git
